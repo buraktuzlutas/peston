@@ -1,0 +1,29 @@
+{
+  "ilaclama": {
+    "title": "İlaçlama Hizmetleri",
+    "description": "Profesyonel ilaçlama çözümleri ile yaşam alanlarınızı zararlılardan koruyoruz.",
+    "items": [
+      {
+        "id": "1741665136290",
+        "title": "uğur",
+        "description": "asfasfasf",
+        "image": "/images/services/1741665136290-2cd0dc8aa15acf7e86307468ad96bb18.jpg",
+        "imageWidth": "400",
+        "imageHeight": "300"
+      },
+      {
+        "id": "1741665498598",
+        "title": "asfasfasf",
+        "description": "asfasfasf",
+        "image": "/images/services/1741665498598-DALL·E 2025-03-11 06.46.32 - Create an ultra-modern and innovative logo for 'Peston', a company offering pest control and landscaping services. The design should be avant-garde, f.webp",
+        "imageWidth": "800",
+        "imageHeight": "600"
+      }
+    ]
+  },
+  "peyzaj": {
+    "title": "Peyzaj Hizmetleri",
+    "description": "Yaşam alanlarınızı yeşillendiriyor, doğayla uyumlu tasarımlar sunuyoruz.",
+    "items": []
+  }
+}

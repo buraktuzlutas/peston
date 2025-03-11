@@ -1,0 +1,184 @@
+{
+  "general": {
+    "logo": "/images/logo.png",
+    "companyName": "Peston",
+    "phone": "+90 555 123 4567",
+    "email": "info@peston.com",
+    "address": "İstanbul, Türkiye",
+    "socialMedia": {
+      "facebook": "https://facebook.com/peston",
+      "instagram": "https://instagram.com/peston",
+      "twitter": "https://twitter.com/peston"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Peston İlaçlama ve Peyzaj Hizmetleri",
+      "description": "Profesyonel çözümlerle yaşam alanlarınızı daha sağlıklı ve güzel hale getiriyoruz.",
+      "image": "/uploads/1741668015883-2cd0dc8aa15acf7e86307468ad96bb18.jpg"
+    },
+    "features": [],
+    "sections": [],
+    "stats": {
+      "title": "Rakamlarla Peston",
+      "items": []
+    },
+    "testimonials": [
+      {
+        "id": "1741668482968",
+        "name": "Burak TUZLUTAŞ",
+        "role": "VELİ",
+        "comment": "HARİKA",
+        "image": "",
+        "rating": 5
+      }
+    ],
+    "blog": {
+      "title": "Blog & Haberler",
+      "description": "Son gelişmeler ve faydalı bilgiler",
+      "posts": []
+    }
+  },
+  "services": {
+    "ilaclama": {
+      "title": "İlaçlama Hizmetleri",
+      "description": "Profesyonel ilaçlama hizmetlerimiz ile yaşam alanlarınızı zararlılardan koruyoruz",
+      "items": [
+        {
+          "id": "1741666876585",
+          "title": "böcük",
+          "description": "asfasfasfasfasf",
+          "image": "/uploads/1741666884073-2cd0dc8aa15acf7e86307468ad96bb18.jpg"
+        }
+      ],
+      "hero": {
+        "title": "İLAÇLAMA HİZMETLERİMİZ",
+        "description": "Profesyonel ekibimiz ve modern ekipmanlarımızla yaşam alanlarınızı zararlılardan koruyoruz"
+      },
+      "categories": [
+        {
+          "id": "1",
+          "title": "KONUT İLAÇLAMA",
+          "description": "Evinizi ve ailenizi zararlılardan korumak için özel çözümler sunuyoruz."
+        }
+      ],
+      "pestTypes": [
+        {
+          "id": "1",
+          "title": "Karıncalar",
+          "description": "Çeşitli bakteri türlerini taşıyarak sağlığınızı tehdit eder"
+        }
+      ],
+      "process": {
+        "title": "Çalışma Sürecimiz",
+        "steps": [
+          {
+            "id": "1",
+            "number": 1,
+            "title": "Keşif",
+            "description": "Mekanınızı detaylı inceleyerek zararlı türlerini ve yoğunluğunu tespit ediyoruz"
+          }
+        ]
+      },
+      "features": {
+        "title": "Neden Peston?",
+        "items": [
+          {
+            "id": "1",
+            "title": "Profesyonel Ekip",
+            "description": "Uzman ve deneyimli kadromuzla kaliteli hizmet sunuyoruz"
+          }
+        ]
+      },
+      "serviceTypes": [
+        {
+          "id": "1",
+          "title": "FABRİKA İLAÇLAMA",
+          "description": "...",
+          "image": "/images/services/fabrika-ilaclama.jpg",
+          "slug": "fabrika-ilaclama",
+          "faqCategories": [
+            {
+              "id": "1",
+              "title": "Genel Sorular",
+              "faqs": [
+                {
+                  "id": "1",
+                  "question": "İlaçlama sonrası ne kadar süre beklenmelidir?",
+                  "answer": "İlaçlama sonrası ortamın 4-6 saat havalandırılması ve bu süre içinde kullanılmaması önerilir."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Güvenlik ve Sağlık",
+              "faqs": [
+                {
+                  "id": "2",
+                  "question": "Kullanılan ilaçlar sağlığa zararlı mı?",
+                  "answer": "Sağlık Bakanlığı onaylı, insan ve çevre sağlığına uygun ilaçlar kullanılmaktadır."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "KAMU KURUMLARI İLAÇLAMA",
+          "description": "Kamu Kurumu ilaçlama işlemlerinde çevre sağlığı son derece önemli bir konudur. İnsan sağlığı için düzenli olarak...",
+          "image": "/images/services/kamu-ilaclama.jpg",
+          "slug": "kamu-kurumlari-ilaclama"
+        },
+        {
+          "id": "3",
+          "title": "HASTANE İLAÇLAMA",
+          "description": "Hastanelerde düzenli olarak ilaçlama işlemleri yapılmadığı takdirde ciddi sağlık sorunları ortaya çıkabilir...",
+          "image": "/images/services/hastane-ilaclama.jpg",
+          "slug": "hastane-ilaclama"
+        }
+      ]
+    },
+    "peyzaj": {
+      "title": "Peyzaj Hizmetleri",
+      "description": "Modern ve estetik peyzaj çözümleri ile yaşam alanlarınızı güzelleştiriyoruz",
+      "items": [
+        {
+          "id": "1741666931592",
+          "title": "asfasf",
+          "description": "asfasfasfasf",
+          "image": "/uploads/1741666936227-dall-e-2025-03-11-06.47.07---design-a-realistic-and-high-detail-logo-for--peston---a-company-specializing-in-pest-control-and-landscaping-services.-the-logo-should-feature-a-lifel.webp"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "content": "afasfasfasf",
+    "vision": "asfasf",
+    "mission": "asfasfasfasf",
+    "team": [
+      {
+        "id": "1741666533753",
+        "name": "veli kavlak",
+        "position": "düşme ahmetim",
+        "image": "/uploads/1741667150667-2cd0dc8aa15acf7e86307468ad96bb18.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Bize ulaşın",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "workingHours": {
+      "weekday": "",
+      "weekend": ""
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  }
+}
